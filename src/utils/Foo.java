@@ -6,7 +6,6 @@ public class Foo {
 		System.out.println("howdy");
 		System.out.println("hi from GitHub");
 		System.out.println("hi 'noah1' branch, from Eclipse");
-		System.out.println("hello worlds");
 	}
 
 
